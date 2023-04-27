@@ -19,6 +19,10 @@ You must run main.py with three arguments (not caps sensitive):
     * "twitter" : scrap on twitter
 3. users : list all the usernames separated by comas (do not use spaces)
 
+example :
+
+.\main.py scrap twitter elonmusk,nytimes
+
 ## Database
 
 By default this database is local, you can change this by altering the constant DATABASEADRESS in DataLink.py.
